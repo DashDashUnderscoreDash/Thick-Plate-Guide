@@ -2,7 +2,8 @@
 
 ### 1. Navigate to [KLE](https://www.keyboard-layout-editor.com/)
 
-### 2. Make your layout (For this example we will use the minivan layout [Minisub](https://trashman.wiki/community/pcbs/minisub)) [KLE link here](https://www.keyboard-layout-editor.com/#/gists/1fa1f216f42ccb54e6a5849ecc492d73)
+### 2. Make your layout (For this example we will use the minivan layout [Minisub](https://trashman.wiki/community/pcbs/minisub))
+[KLE link here](https://www.keyboard-layout-editor.com/#/gists/1fa1f216f42ccb54e6a5849ecc492d73)
 
 ![Minisub layout](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Minisub%20KLE.png)
 
