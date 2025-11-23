@@ -4,7 +4,7 @@
 
 2. Make your layout (For this example we will use the minivan layout [Minisub](https://trashman.wiki/community/pcbs/minisub)) [KLE link here](https://www.keyboard-layout-editor.com/#/gists/1fa1f216f42ccb54e6a5849ecc492d73)
 
-![Minisub layout]()
+![Minisub layout](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Minisub%20KLE.png)
 
 3. For any bars 2u and over that you would like to have flipped stabilizers, you will need to select they key and the homing option (You will need to determine if this is needed, but it is common)
 
