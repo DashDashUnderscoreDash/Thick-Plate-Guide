@@ -17,9 +17,21 @@
 
 6. Take your KLE raw data and paste into the 'KLE Raw Data' field
 
+KLE location: ![Raw Data location](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/KLE%20Raw%20Data.jpg)
+
+Keebio location: ![Keebio raw data location](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Raw%20Data.jpg)
+
 7. Select the 'Combine overlapping layouts'
 
+Before: ![Before](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Info%20Input.jpg)
+
+![Combine overlaps](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combine%20Option.jpg)
+
+After: ![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combined.jpg)
+
 8. Download the DXF and save to a location you can find later
+
+![Download DXF link](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Download%20DXF.jpg)
 
 9. Open [Fusion360](https://www.autodesk.com/products/fusion-360/personal)
 
