@@ -3,8 +3,10 @@
 1. Navigate to [KLE](https://www.keyboard-layout-editor.com/)
 2. Make your layout (For this example we will use the minivan layout [Minisub](https://trashman.wiki/community/pcbs/minisub)) [KLE link here](https://www.keyboard-layout-editor.com/#/gists/1fa1f216f42ccb54e6a5849ecc492d73)
 3. For any bars 2u and over that you would like to have flipped stabilizers, you will need to select they key and the homing option
+
 ![KLE Homing Image](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/KLE%20Homing.jpg)
 4. If your layout has multiple layouts for an area you will need to stack/compress all layout options into one line
+
 ![Compressed layout](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Combine%20Multi%20Layout.jpg)
 5. Navigate to [Keebio Plate Generator](https://plate.keeb.io/)
 6. Take your KLE raw data and paste into the 'KLE Raw Data' field
