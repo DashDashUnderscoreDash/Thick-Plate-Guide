@@ -29,7 +29,8 @@ Before: ![Before](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/bl
 
 ![Combine overlaps](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combine%20Option.jpg)
 
-After: ![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combined.jpg)
+After:
+![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combined.jpg)
 
 ### 8. Download the DXF and save to a location you can find later
 
