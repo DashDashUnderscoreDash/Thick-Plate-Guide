@@ -29,12 +29,11 @@ Before: ![Before](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/bl
 
 ![Combine overlaps](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combine%20Option.jpg)
 
-After:
-![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combined.jpg)
+After: ![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combined.jpg)
 
 ### 8. Download the DXF and save to a location you can find later
 
-	![Download DXF link](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Download%20DXF.jpg)
+![Download DXF link](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Download%20DXF.jpg)
 
 ### 9. Open [Fusion360](https://www.autodesk.com/products/fusion-360/personal)
 
