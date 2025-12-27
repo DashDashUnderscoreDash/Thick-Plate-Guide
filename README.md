@@ -27,7 +27,7 @@ Keebio location: ![Keebio raw data location](https://github.com/DashDashUndersco
 ### 7. Select the 'Combine overlapping layouts'
 
 Before:
--![Before](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Info%20Input.jpg)
+- ![Before](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Info%20Input.jpg)
 
 - ![Combine overlaps](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combine%20Option.jpg)
 
