@@ -26,12 +26,13 @@ Keebio location: ![Keebio raw data location](https://github.com/DashDashUndersco
 
 ### 7. Select the 'Combine overlapping layouts'
 
-Before: ![Before](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Info%20Input.jpg)
+Before:
+-![Before](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Info%20Input.jpg)
 
-![Combine overlaps](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combine%20Option.jpg)
+- ![Combine overlaps](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combine%20Option.jpg)
 
 After:
-![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combined.jpg)
+- ![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combined.jpg)
 
 ### 8. Download the DXF and save to a location you can find later
 
