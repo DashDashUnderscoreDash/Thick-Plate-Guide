@@ -30,7 +30,8 @@ Before: ![Before](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/bl
 
 ![Combine overlaps](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combine%20Option.jpg)
 
-After: ![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combined.jpg)
+After:
+![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combined.jpg)
 
 ### 8. Download the DXF and save to a location you can find later
 
@@ -44,8 +45,8 @@ After: ![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob
 
 ### 12. Create a new component and name it 'Plate'
 
-![Step1(https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Create%20New%20Comp%20Name%20it%20Plate%201.png)
-![Step1(https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Create%20New%20Comp%20Name%20it%20Plate%202.png)
+![Step1](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Create%20New%20Comp%20Name%20it%20Plate%201.png)
+![Step2](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Create%20New%20Comp%20Name%20it%20Plate%202.png)
 
 ### 13. Create a sketch on the plane of your choice
 
