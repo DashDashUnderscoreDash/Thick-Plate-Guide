@@ -44,6 +44,9 @@ After: ![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob
 
 ### 12. Create a new component and name it 'Plate'
 
+![Step1(https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Create%20New%20Comp%20Name%20it%20Plate%201.png)
+![Step1(https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Create%20New%20Comp%20Name%20it%20Plate%202.png)
+
 ### 13. Create a sketch on the plane of your choice
 
 ### 14. Choose insert and DXF
