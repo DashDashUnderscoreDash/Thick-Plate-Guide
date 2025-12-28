@@ -27,12 +27,12 @@ Keebio location: ![Keebio raw data location](https://github.com/DashDashUndersco
 ### 7. Select the 'Combine overlapping layouts'
 
 Before:
-- ![Before](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Info%20Input.jpg)
+![Before](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Info%20Input.jpg)
 
-- ![Combine overlaps](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combine%20Option.jpg)
+![Combine overlaps](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combine%20Option.jpg)
 
 After:
-- ![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combined.jpg)
+![After](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Keebio%20Combined.jpg)
 
 ### 8. Download the DXF and save to a location you can find later
 
@@ -50,6 +50,9 @@ After:
 ![Step2](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Create%20New%20Comp%20Name%20it%20Plate%202.png)
 
 ### 13. Create a sketch on the plane of your choice
+
+![Step1](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Create%20Sketch%20on%20the%20Place%20of%20Your%20Choice%201.png)
+![Step2](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Create%20Sketch%20on%20the%20Place%20of%20Your%20Choice%202.png)
 
 ### 14. Choose insert and DXF
 
