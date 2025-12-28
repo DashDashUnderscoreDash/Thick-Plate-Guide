@@ -56,11 +56,23 @@ After:
 
 ### 14. Choose insert and DXF
 
+![Step1](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Choose%20Insert%20DXF%201.png)
+
+![Step2](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Choose%20Insert%20DXF%202.png)
+
 ### 15. Choose your DXF and it will populate
+
+![Step1](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Choose%20your%20DXF%20and%20it%20Will%20Populate.png)
 
 ### 16. Drag to select all and choose fix so you don't accidently move anything
 
+![Step1](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Drag%20to%20Select%20All%20and%20Choose%20Fix%20so%20You%20Don't%20Accidently%20Move%20Anything.png)
+
 ### 17. Create a rectangle around the perimiter of the layout
+
+![Step1](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Create%20a%20Rectangle%20Around%20the%20Permiter%20of%20the%20Layout%201.png)
+
+![Step2](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Create%20a%20Rectangle%20Around%20the%20Permiter%20of%20the%20Layout%202.png)
 
 ### 18. Hit the 'D' key and select the top of a switch cutout on the top row and then the top line on the rectangle you created
 
