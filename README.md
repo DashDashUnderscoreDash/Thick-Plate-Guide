@@ -64,7 +64,7 @@ After:
 
 ![Step1](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Choose%20your%20DXF%20and%20it%20Will%20Populate.png)
 
-### 16. Drag to select all and choose fix so you don't accidently move anything
+### 16. Drag to select all and choose fix so you don't accidently move anything. This will change the light blue outlines to green
 
 ![Step1](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Drag%20to%20Select%20All%20and%20Choose%20Fix%20so%20You%20Don't%20Accidently%20Move%20Anything.png)
 
@@ -76,8 +76,16 @@ After:
 
 ### 18. Hit the 'D' key and select the top of a switch cutout on the top row and then the top line on the rectangle you created
 
+![Step1](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Hit%20the%20D%20Key.png)
+
 ### 19. Make this 2.525mm
 
 ### 20. Repeat this step on all 3 other sides
 
-### 21. 
+![Step1](https://github.com/DashDashUnderscoreDash/Thick-Plate-Guide/blob/main/Images/Repeat%20This%20Setp%20on%20All%203%20Other%20Sides.png)
+
+### 21. TBD
+
+## I'm slowly working on completing this guide! - Dash
+
+![GIF](https://media.tenor.com/tUYVANzqtGoAAAAM/hello.gif)
