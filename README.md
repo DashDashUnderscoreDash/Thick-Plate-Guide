@@ -1,4 +1,4 @@
-# Thicc Plate Guide
+# Thick Plate Guide
 
 ## *I have created a [youtube video walkthrough](https://www.youtube.com/watch?v=zyNzHWt9mi8) which will likely be easier to follow along with if you'd like to watch that*
 
