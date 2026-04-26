@@ -1,5 +1,7 @@
 # Thicc Plate Guide
 
+## I have created a [youtube video walkthrough](https://www.youtube.com/watch?v=zyNzHWt9mi8) which will likely be easier to follow along with if you'd like to watch that
+
 ### 1. Navigate to [KLE](https://www.keyboard-layout-editor.com/)
 
 ### 2. Make your layout (For this example we will use the minivan layout [Minisub](https://trashman.wiki/community/pcbs/minisub))
